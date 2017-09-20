@@ -1,4 +1,10 @@
+
+## Maxcoin-Pythonrpc 
+
 ## maxcoin-python uses setuptools for the install script. There are no dependencies apart from Python itself
+
+![alt text](https://pbs.twimg.com/profile_images/878589713598251008/cs-cG7U6_400x400.jpg "Maxcoin Logo")
+
 
 ## Step 1
 
