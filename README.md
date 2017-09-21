@@ -31,4 +31,10 @@ sudo python setup.py build
 sudo python setup.py install
 ```
 
+## Step 4
+
+Check out the Example folder for examples for using the code.
+
+
+
 
