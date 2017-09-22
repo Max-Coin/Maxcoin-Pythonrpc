@@ -1,4 +1,3 @@
-
 ## Importing maxcoinrpc connection module
 import maxcoinrpc.connection
 
@@ -11,5 +10,6 @@ block = conn.getblocknumber()
 ## getting the block hash requires the block number
 hash = conn.getblockhash(block)
 
+## printing the block hash
 print hash
 
