@@ -6,7 +6,7 @@ import maxcoinrpc.connection
 conn = maxcoinrpc.connection.MaxcoinConnection('rpcuser', 'rpcpassword', host='localhost', port=rpcport, use_https=False)
 
 ## Get genesis block hash by block number
-genesisblock = conn.getblockhash(1)
+genesisblock = conn.getblockhash(0)
 
 ## printing the block hash
 print genesisblock
