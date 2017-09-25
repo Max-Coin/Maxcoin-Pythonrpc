@@ -6,7 +6,7 @@ import maxcoinrpc.connection
 conn = maxcoinrpc.connection.MaxcoinConnection('rpcuser', 'rpcpassword', host='localhost', port=rpcport, use_https=False)
 
 ## Returns information about the genesis block.
-genesisblock = conn.getblock('000000bed6f953b6cf20afd8dc1d965dbf007587b119ff794f4b26755ebacc6b')
+genesisblock = conn.getblock('0000002d0f86558a6e737a3a351043ee73906fe077692dfaa3c9328aaca21964')
 
 ## printing the infomation
 print genesisblock
