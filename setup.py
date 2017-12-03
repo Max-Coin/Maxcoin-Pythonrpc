@@ -8,7 +8,7 @@ setup(
     ' client happens over JSON-RPC.',
     maintainer='Ollie Morris',
     maintainer_email='officialgamermorris@gmail.com',
-    url='https://github.com/Olliecad1/Maxcoin-python',
+    url='https://github.com/Max-Coin/Maxcoin-Pythonrpc',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Console',
