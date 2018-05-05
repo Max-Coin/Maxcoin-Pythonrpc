@@ -35,7 +35,7 @@ sudo python setup.py install
 
 ## Step 4
 
-Check out the Example folder for examples for using the code.
+Check out the [Example](https://github.com/Max-Coin/Maxcoin-Pythonrpc/tree/master/Examples) folder for examples for using the code.
 
 
 
